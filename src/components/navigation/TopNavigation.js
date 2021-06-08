@@ -22,9 +22,9 @@ const TopNavigation = ({
           marginBottom: "1em"
         }}
       >
-        {/* <Menu.Item as={Link} to="/">
+        <Menu.Item as={Link} to="/">
           Home
-        </Menu.Item> */}
+        </Menu.Item>
         <Menu.Item disabled={!isAuthenticated} as={Link} to="/dashboard">
           Dashboard
         </Menu.Item>
