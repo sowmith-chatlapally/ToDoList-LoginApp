@@ -1,5 +1,5 @@
 ## React Login/Logout Workflow
-This is a simple login/logout system built with React, Redux and Node.js
+This is a simple login/logout system built with React, Redux and Node.js. We will be able to create, update, delete task.
 
 ### Installation
 
